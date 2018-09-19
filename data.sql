@@ -1,0 +1,2 @@
+-- Permissões
+Insert into TB_PERMISSAO(COD_PERMISSAO, NOME) Values (1,'ROLE_VISUALIZAR_SOLICITACAO');
